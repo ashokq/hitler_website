@@ -27,11 +27,7 @@ function getItem(label, key, icon, children) {
 const items = [
   getItem('Home', '1', <HomeOutlined />),
   getItem('About US', '2', <DesktopOutlined />),
-  getItem('Services', 'sub1', <UserOutlined />, [
-    getItem('Groceries Delivery', '3'),
-    getItem('Food Delivery', '4'),
-    getItem('Ride Partner', '5'),
-  ]),
+  getItem('Services', '3', <UserOutlined />),
   getItem('Contact Us', '9', <PhoneOutlined />),
 ];
 const App = () => {

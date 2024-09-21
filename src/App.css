@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+
+@media (min-width: 1024px) {
+  .mobile-only {
+    display: none;
+  }
+}
+
+/* Show the div on mobile (max-width: 1024px) */
+@media (max-width: 1023px) {
+  .mobile-only {
+    display: block; /* or flex if you are using flexbox */
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
