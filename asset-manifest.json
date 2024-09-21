@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hitler_website/static/css/main.e6c13ad2.css",
+    "main.js": "/hitler_website/static/js/main.6a1bf750.js",
+    "static/js/453.f676aa32.chunk.js": "/hitler_website/static/js/453.f676aa32.chunk.js",
+    "static/media/banner.jpg": "/hitler_website/static/media/banner.3a9325615c2afc7a7f85.jpg",
+    "static/media/logo.png": "/hitler_website/static/media/logo.08d4ca26010197e3ec6e.png",
+    "index.html": "/hitler_website/index.html",
+    "main.e6c13ad2.css.map": "/hitler_website/static/css/main.e6c13ad2.css.map",
+    "main.6a1bf750.js.map": "/hitler_website/static/js/main.6a1bf750.js.map",
+    "453.f676aa32.chunk.js.map": "/hitler_website/static/js/453.f676aa32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a1bf750.js"
+  ]
+}
